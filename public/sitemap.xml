@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://lightsearch.uk/</loc>
+    <lastmod>2021-01-21T20:13:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lightsearch.uk/posts/</loc>
+    <lastmod>2021-01-21T20:13:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lightsearch.uk/posts/test/</loc>
+    <lastmod>2021-01-21T20:13:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lightsearch.uk/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lightsearch.uk/tags/</loc>
+  </url>
+  
+</urlset>
