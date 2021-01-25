@@ -1,4 +1,4 @@
 baseURL = "http://lightsearch.uk/"
 languageCode = "en-gb"
 title = "Lightsearch"
-theme = "ananke"
+theme = "lightsearch"
